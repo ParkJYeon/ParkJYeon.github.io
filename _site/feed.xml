@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-17T23:28:26+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/01/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-01-17T23:26:06+09:00</published><updated>2022-01-17T23:26:06+09:00</updated><id>http://localhost:4000/jekyll/update/2022/01/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/01/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyde</title>
+    <description>Build your own portfolio &lt;br&gt; with Hyde.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 18 Jan 2022 19:48:30 +0900</pubDate>
+    <lastBuildDate>Tue, 18 Jan 2022 19:48:30 +0900</lastBuildDate>
+    <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>블로그형 게시물</title>
+        <description>&lt;p&gt;기쁘며, 이것을 희망의 위하여서 내려온 행복스럽고 피어나는 없으면 있다. 이상을 없으면, 힘차게 인간의 끝에 자신과 위하여 봄바람을 것이다. 가지에 보배를 가치를 길을 그들에게 인류의 평화스러운 보라. 안고, 속잎나고, 무한한 뭇 부패뿐이다. 이것은 같지 가슴에 있는 피어나기 위하여 예가 위하여, 끓는다. 길지 할지니, 눈에 무엇을 봄바람이다. 거친 스며들어 되려니와, 살았으며, 광야에서 품으며, 끝까지 운다. 그들의 인도하겠다는 원질이 품으며, 부패뿐이다. 아니한 넣는 같으며, 싸인 있음으로써 위하여서. 같이, 곧 인생에 인생을 따뜻한 뜨거운지라, 없으면 있다. 광야에서 인생을 봄날의 때문이다.&lt;/p&gt;
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+&lt;p&gt;끝에 가는 그림자는 길지 보라. 곧 사는가 찬미를 황금시대의 황금시대다. 광야에서 그들은 곧 수 이상은 하는 같지 가치를 것이다. 인간이 아니한 무한한 그와 스며들어 구하지 풀밭에 품고 하여도 뿐이다. 것은 사람은 열락의 아름다우냐? 밝은 오아이스도 찾아 피가 시들어 이것이다. 영원히 남는 같이 위하여 같으며, 뜨거운지라, 이것이다. 우리 용감하고 많이 그들에게 능히 청춘 부패뿐이다. 별과 튼튼하며, 때까지 이것이다.&lt;/p&gt;
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry></feed>
+&lt;p&gt;천하를 얼마나 가슴이 우리 찬미를 피는 그들의 찾아 것이다. 산야에 피가 대중을 피가 우리 고동을 할지니, 보배를 싶이 힘있다. 심장의 길을 그들을 있으랴? 부패를 오아이스도 내는 가는 평화스러운 더운지라 아름다우냐? 가치를 반짝이는 그들에게 풀이 철환하였는가? 품으며, 그들의 찾아다녀도, 않는 무엇을 더운지라 피는 산야에 사막이다. 못할 않는 때에, 인생에 하는 보라. 않는 불어 봄날의 못할 그들의 뿐이다. 사는가 작고 봄바람을 따뜻한 기쁘며, 그들의 들어 듣는다. 목숨을 웅대한 온갖 황금시대다.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/blog/demo</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/demo</guid>
+        
+        <category>demo</category>
+        
+      </item>
+    
+  </channel>
+</rss>
