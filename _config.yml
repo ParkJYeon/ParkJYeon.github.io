@@ -1,10 +1,9 @@
-title: Hyde
+title: JYeon
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
-url: "https://chemistryx.me"
-github: ChemistryX
-email: changeme@chemistryx.me
+  Backend Developer🐣
+url: "https://ParkJYeon.github.io"
+github: ParkJYeon
+email: ParkJYeon2808@gmail.com
 google_analytics: <YOUR UA TOKEN>
 
 exclude: [README.md, Gemfile, Gemfile.lock]
